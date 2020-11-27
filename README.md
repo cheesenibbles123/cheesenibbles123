@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  <summary>:zap: Recent GitHub Code Activity</summary>
+  <summary>:zap: Recent GitHub Code</summary>
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
