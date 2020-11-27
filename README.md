@@ -58,8 +58,8 @@ No Activity tracked this Week
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  [![Archie's github stats](https://github-readme-stats.vercel.app/api?username=cheesenibbles123)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesenibbles123&show_icons=true&locale=en&layout=compact" alt="cheesenibbles123" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cheesenibbles123" alt="cheesenibbles123" />
 
 </details>
 <!--
