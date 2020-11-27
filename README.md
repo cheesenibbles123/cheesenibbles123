@@ -36,11 +36,13 @@
 
 <details>
   <summary>:zap: Recent GitHub Code</summary>
+  
   <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+  
 </details>
 
 <details>
