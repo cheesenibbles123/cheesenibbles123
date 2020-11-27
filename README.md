@@ -56,12 +56,9 @@ No Activity tracked this Week
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesenibbles123&show_icons=true&locale=en&layout=compact" alt="cheesenibbles123" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cheesenibbles123" alt="cheesenibbles123" />
 
-</details>
 <!--
 **cheesenibbles123/cheesenibbles123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
