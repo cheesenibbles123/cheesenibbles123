@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Code</summary>
+  <summary>:zap: Recent Profile Changes</summary>
   
   <!--START_SECTION:waka-->
 ```text
