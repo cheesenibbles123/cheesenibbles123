@@ -35,17 +35,6 @@
 </details>
 
 <details>
-  <summary>:zap: Recent Profile Changes</summary>
-  
-  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-  
-</details>
-
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -58,8 +47,30 @@ No Activity tracked this Week
 
 </details>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesenibbles123&show_icons=true&locale=en&layout=compact" alt="cheesenibbles123" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cheesenibbles123" alt="cheesenibbles123" />
+<details>
+  <summary>☠️ Blackwake Mods</summary>
+  
+-  <a href="https://github.com/cheesenibbles123/Alternion-BW-mod">Alternion</a>
+  
+-  <a href="https://github.com/cheesenibbles123/Original-CharacterCustomization-thingy-bw-mod">The one that started it all</a>
+    
+-  <a href="https://github.com/cheesenibbles123/-BW---MainMenuCharacterRotator">Character Rotator</a>
+  
+-  <a href="https://github.com/cheesenibbles123/customEliteBadges">Custom Elite Badges</a>
+      
+ </details>
+ 
+ <details>
+  <summary>🤖 Discord Bots</summary>
+  
+-  <a href="https://github.com/cheesenibbles123/OliverbotPublic">Oliverbot</a>
+
+-  <a href="https://github.com/cheesenibbles123/TheHolyHammer">The Holy Hammer</a>
+
+ </details>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesenibbles123&show_icons=true&locale=en&layout=compact" alt="cheesenibbles123" />
+<img src="https://github-readme-stats.vercel.app/api?username=cheesenibbles123" alt="cheesenibbles123" />
 
 <!--
 **cheesenibbles123/cheesenibbles123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
