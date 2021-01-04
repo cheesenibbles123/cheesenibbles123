@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/24) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-2. 🗣 Commented on [#24](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/24) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-3. 🗣 Commented on [#20](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/20) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-4. 🗣 Commented on [#20](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/20) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+1. 🗣 Commented on [#1](https://github.com/Modwake/customFlags/issues/1) in [Modwake/customFlags](https://github.com/Modwake/customFlags)
+2. 🗣 Commented on [#1](https://github.com/Modwake/customFlags/issues/1) in [Modwake/customFlags](https://github.com/Modwake/customFlags)
+3. 🗣 Commented on [#24](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/24) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+4. 🗣 Commented on [#24](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/24) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
 5. 🗣 Commented on [#20](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/20) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
 <!--END_SECTION:activity-->
 
