@@ -57,6 +57,8 @@
 -  <a href="https://github.com/cheesenibbles123/-BW---MainMenuCharacterRotator">Character Rotator</a>
   
 -  <a href="https://github.com/cheesenibbles123/customEliteBadges">Custom Elite Badges</a>
+
+-  <a href="https://github.com/cheesenibbles123/customFlags" target="_blank">Custom Flags</a>
       
  </details>
  
