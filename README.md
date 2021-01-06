@@ -60,7 +60,9 @@
 -  <a href="https://github.com/cheesenibbles123/customEliteBadges">Custom Elite Badges</a>
 
 -  <a href="https://github.com/cheesenibbles123/customFlags">Custom Flags</a>
-      
+
+-  <a href="https://github.com/cheesenibbles123/customSailSkins">Custom Sail Skins</a>
+
  </details>
  
  <details>
