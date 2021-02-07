@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/25) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-2. 🎉 Merged PR [#1](https://github.com/cheesenibbles123/TMR/pull/1) in [cheesenibbles123/TMR](https://github.com/cheesenibbles123/TMR)
-3. 💪 Opened PR [#1](https://github.com/cheesenibbles123/TMR/pull/1) in [cheesenibbles123/TMR](https://github.com/cheesenibbles123/TMR)
-4. ❗️ Closed issue [#1](https://github.com/Modwake/customFlags/issues/1) in [Modwake/customFlags](https://github.com/Modwake/customFlags)
-5. 🗣 Commented on [#1](https://github.com/Modwake/customFlags/issues/1) in [Modwake/customFlags](https://github.com/Modwake/customFlags)
+1. ❗️ Closed issue [#25](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/25) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+2. 🗣 Commented on [#25](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/25) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+3. ❗️ Opened issue [#25](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/25) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+4. 🎉 Merged PR [#1](https://github.com/cheesenibbles123/TMR/pull/1) in [cheesenibbles123/TMR](https://github.com/cheesenibbles123/TMR)
+5. 💪 Opened PR [#1](https://github.com/cheesenibbles123/TMR/pull/1) in [cheesenibbles123/TMR](https://github.com/cheesenibbles123/TMR)
 <!--END_SECTION:activity-->
 
 </details>
