@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/cheesenibbles123/OliverbotPublic/issues/2) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-2. ❗️ Closed issue [#3](https://github.com/cheesenibbles123/OliverbotPublic/issues/3) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-3. 🗣 Commented on [#3](https://github.com/cheesenibbles123/OliverbotPublic/issues/3) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-4. ❗️ Closed issue [#4](https://github.com/cheesenibbles123/OliverbotPublic/issues/4) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-5. 🗣 Commented on [#4](https://github.com/cheesenibbles123/OliverbotPublic/issues/4) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+1. 🗣 Commented on [#5](https://github.com/cheesenibbles123/OliverbotPublic/issues/5) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+2. ❗️ Closed issue [#2](https://github.com/cheesenibbles123/OliverbotPublic/issues/2) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+3. ❗️ Closed issue [#3](https://github.com/cheesenibbles123/OliverbotPublic/issues/3) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+4. 🗣 Commented on [#3](https://github.com/cheesenibbles123/OliverbotPublic/issues/3) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+5. ❗️ Closed issue [#4](https://github.com/cheesenibbles123/OliverbotPublic/issues/4) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
 <!--END_SECTION:activity-->
 
 </details>
