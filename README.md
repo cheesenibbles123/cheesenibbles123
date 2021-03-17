@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/28) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-2. 🗣 Commented on [#28](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/28) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-3. ❗️ Closed issue [#5](https://github.com/cheesenibbles123/OliverbotPublic/issues/5) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-4. 🗣 Commented on [#5](https://github.com/cheesenibbles123/OliverbotPublic/issues/5) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-5. 🗣 Commented on [#5](https://github.com/cheesenibbles123/OliverbotPublic/issues/5) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+1. 🗣 Commented on [#27](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/27) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+2. 🗣 Commented on [#26](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/26) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+3. ❗️ Closed issue [#28](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/28) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+4. 🗣 Commented on [#28](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/28) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+5. ❗️ Closed issue [#5](https://github.com/cheesenibbles123/OliverbotPublic/issues/5) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
 <!--END_SECTION:activity-->
 
 </details>
