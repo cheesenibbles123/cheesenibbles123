@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/cheesenibbles123/OliverbotPublic/pull/6) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-2. 💪 Opened PR [#6](https://github.com/cheesenibbles123/OliverbotPublic/pull/6) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
-3. 🗣 Commented on [#27](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/27) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-4. 🗣 Commented on [#26](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/26) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
-5. ❗️ Closed issue [#28](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/28) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+1. 💪 Opened PR [#7](https://github.com/cheesenibbles123/OliverbotPublic/pull/7) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+2. 🎉 Merged PR [#6](https://github.com/cheesenibbles123/OliverbotPublic/pull/6) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+3. 💪 Opened PR [#6](https://github.com/cheesenibbles123/OliverbotPublic/pull/6) in [cheesenibbles123/OliverbotPublic](https://github.com/cheesenibbles123/OliverbotPublic)
+4. 🗣 Commented on [#27](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/27) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
+5. 🗣 Commented on [#26](https://github.com/cheesenibbles123/Alternion-BW-mod/issues/26) in [cheesenibbles123/Alternion-BW-mod](https://github.com/cheesenibbles123/Alternion-BW-mod)
 <!--END_SECTION:activity-->
 
 </details>
