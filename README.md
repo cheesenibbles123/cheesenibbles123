@@ -83,7 +83,7 @@
  </details>
  
  <details>
-  <summary>🤖 NPM Packages</summary>
+  <summary>📦 NPM Packages</summary>
   
 -  <a href="https://www.npmjs.com/package/bs-api-core">bs-api-core</a>
 
