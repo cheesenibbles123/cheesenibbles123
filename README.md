@@ -81,6 +81,15 @@
 -  <a href="https://github.com/cheesenibbles123/TheHolyHammer">The Holy Hammer</a>
 
  </details>
+ 
+ <details>
+  <summary>🤖 NPM Packages</summary>
+  
+-  <a href="https://www.npmjs.com/package/bs-api-core">bs-api-core</a>
+
+-  <a href="https://www.npmjs.com/package/@cheesenibbles123/blackwakehandler">blackwakehandler</a>
+
+ </details>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesenibbles123&show_icons=true&locale=en&layout=compact" alt="cheesenibbles123" />
 <img src="https://github-readme-stats.vercel.app/api?username=cheesenibbles123" alt="cheesenibbles123" />
