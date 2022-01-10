@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="ISO-8859-1"> 
+	</head>
+
+	<script>
+		function fetchPage(pageName, isMobile = false){
+			const iframe = document.getElementById("mainContentBlock");
+        	iframe.setAttribute("src", pageName);
+        	if (isMobile){
+        		toggleDropdown();
+        	}
+		}
+
+		window.onload = () => {
+			if (window.location.href.includes("#")){
+				fetchPage("content/" + window.location.href.split("#")[1] + ".html")
+			}
+		}
+
+		function toggleDropdown(){
+			const dropdown = document.getElementById('dropdown');
+			if (dropdown.style.display === "block"){
+				dropdown.style.display = "None";
+			}else{
+				dropdown.style.display = "block";
+			}
+		}
+	</script>
+
+	<body>
+		<nav>
+			<div class="topBannerDesktop">
+				Cheesenibbles123
+			</div>
+			<button class="topBannerMobile" onclick="toggleDropdown()">
+				Cheesenibbles123
+			</button>
+			<div id="dropdown" class="dropdown-content">
+		     	<a href="#Home" onclick="fetchPage('content/Home.html', true)">Home</a>
+				<a href="#About" onclick="fetchPage('content/About.html', true)">About</a>
+				<a href="#Projects" onclick="fetchPage('content/Projects.html', true)">Projects</a>
+				<a href="#Links" onclick="fetchPage('content/Links.html', true)">Links</a>
+		    </div>
+		</nav>
+
+		<div class="mainBody">
+
+			<nav>
+				<div class="navDesktop">
+					<a href="#Home" onclick="fetchPage('content/Home.html')">Home</a>
+					<a href="#About" onclick="fetchPage('content/About.html')">About</a>
+					<a href="#Projects" onclick="fetchPage('content/Projects.html')">Projects</a>
+					<a href="#Links" onclick="fetchPage('content/Links.html')">Links</a>
+				</div>
+			</nav>
+
+			<div class="iframeContainer">
+				<iframe id="mainContentBlock">
+				</iframe>
+			</div>
+
+		</div>
+
+		<div class="bottomBanner">
+			Copyright &#169; Cheesenibbles123 2022
+		</div>
+	</body>
+</html>
